@@ -1,20 +1,20 @@
-const router = require("express").Router();
+// const router = require("express").Router();
 
-const booksController = require("../../controllers/booksController");
-//calling methods coded on bksCtrlr on this page
+// const booksController = require("../../controllers/booksController");
+// //calling methods coded on bksCtrlr on this page
 
-//routes..
-//.get....
-router.get("/", function(req, res) {
-    booksController.findAll().then(savedBooks => {
-        res.send(savedBooks);
-    })
-} 
+// //routes..
+// //.get....
+// router.get("/", function(req, res) {
+//     booksController.findAll().then(savedBooks => {
+//         res.send(savedBooks);
+//     })
+// } 
 
-//.findall...
-
-
-//.post
+// //.findall...
 
 
-module.exports = router;
+// //.post
+
+
+// module.exports = router;

@@ -2,25 +2,12 @@
 
 make api call work
 
-
 make card
 
 make save button
 
 # books-search-asgt
 
-
-From gitlab instructions:
-Create a README.md
-Add a README.md to your repository describing the project. Here are some resources for creating your README.md. Here are some resources to help you along the way:
-
-
-About READMEs 
-https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes
-
-
-Mastering Markdown
-https://guides.github.com/features/mastering-markdown/
 
 <!-- from curric... -->
 
